@@ -41,6 +41,13 @@ To access GPUs (for the TPs and the project), you can try https://datalab.sspclo
 - [TP: Multi-Layer Perceptron (MLP)](4-classification/tp-4-mlp.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/4-classification/tp-4-mlp.ipynb)
 
 
+### 06/02/2025. Convolutional Neural Networks (CNNs)
+
+- [Stacking Layers](5-CNN/stacking-layers.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/5-CNN/stacking-layers.ipynb)
+- [Convolutions](5-CNN/convolution.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/5-CNN/convolution.ipynb)
+- [TP: Convolutional Neural Network (CNN)](5-CNN/tp-5-cnn.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/5-CNN/tp-5-cnn.ipynb)
+
+
 ## Evaluation
 
 ### Course Project (70%)
