@@ -53,6 +53,13 @@ To access GPUs (for the TPs and the project), you can try https://datalab.sspclo
 - [Optimization: Gradient Descent](6-optimization/optimization.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/6-optimization/optimization.ipynb)
 
 
+### 20/02/2026. Going Deep: Depth, Limitations, and Overfitting
+
+- [Going Deep: Why Depth Matters](7-deep/going-deep.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/7-deep/going-deep.ipynb)
+- [The Limits of Depth](7-deep/limits-of-depth.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/7-deep/limits-of-depth.ipynb)
+- [TP: Techniques to Avoid Overfitting](7-deep/tp-overfitting.ipynb) [![Run Colab](https://img.shields.io/badge/Run-Colab-F9AB00?style=flat-square)](https://colab.research.google.com/github/gbdrt/2025-m2-idl/blob/main/7-deep/tp-overfitting.ipynb)
+
+
 ## Evaluation
 
 ### Course Project (70%)
